@@ -7,7 +7,7 @@ h - hard
 
 Done:
 February 2019
-02. - 1(e); 2(m);
+02. - 13(e); 2(m);
 February 2020
-17 - 
+17 - 14(e); 3(m);
 
